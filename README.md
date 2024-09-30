@@ -1,10 +1,3 @@
-# School
-# Klon-Projeler
 # Netflix-Clone
-# Netflix-Clone
-# Netflix-Clone
-# Netflix-Clone
-# Netflix-Clone
-# flix
-# okul
-# net
+
+
